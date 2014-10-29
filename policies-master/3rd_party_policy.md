@@ -2,7 +2,7 @@
 
 # 3rd Party Policy
 
-Catalyze makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Catalyze or Catalyze Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.
+Catalyze  makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Catalyze or Catalyze Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
